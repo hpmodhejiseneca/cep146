@@ -3,7 +3,6 @@
 # Computer Systems In-Class Lab Exercises
 
 ## Exercise 1: System Hardware Detective (15-20 minutes)
-**Format:** Solo or pairs  
 **Objective:** Students will identify and analyze their computer's hardware components using built-in system tools.
 
 ### Instructions:
@@ -30,7 +29,6 @@ Complete a simple system specification sheet and answer the analysis questions.
 (Optional)
 
 ## Exercise 2: Operating System Feature Hunt (15-20 minutes)
-**Format:** Solo or pairs  
 **Objective:** Students will explore and identify key OS functions on their own devices.
 
 ### Mission:
