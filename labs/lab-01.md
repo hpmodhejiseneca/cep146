@@ -1,5 +1,5 @@
 
-# Lab 1
+# Lab 01
 # Computer Systems In-Class Lab Exercises
 
 ## Exercise 1: System Hardware Detective (15-20 minutes)
