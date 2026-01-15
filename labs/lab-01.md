@@ -26,8 +26,6 @@ Complete a simple system specification sheet and answer the analysis questions.
 
 ---
 
-(Optional)
-
 ## Exercise 2: Operating System Feature Hunt (15-20 minutes)
 **Objective:** Students will explore and identify key OS functions on their own devices.
 
@@ -75,8 +73,8 @@ Complete a checklist of found features and answer the challenge questions.
 **Total Points: 2 marks**
 
 ## Requirements for Completion:
-* **Exercise 1 (Required):** Complete system specification sheet with all hardware components identified AND answer all three analysis questions with thoughtful responses
-* **Exercise 2 (Optional):** If attempted, complete feature checklist for all 5 OS functions AND answer challenge questions
+* **Exercise 1:** Complete system specification sheet with all hardware components identified AND answer all three analysis questions with thoughtful responses
+* **Exercise 2:** If attempted, complete feature checklist for all 5 OS functions AND answer challenge questions
 
 ## Lab Rubric:
 
