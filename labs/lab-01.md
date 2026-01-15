@@ -1,6 +1,6 @@
 
 # Lab 01
-# Computer Systems In-Class Lab Exercises
+# Computer Systems Lab Exercises
 
 ## Exercise 1: System Hardware Detective (15-20 minutes)
 **Objective:** Students will identify and analyze their computer's hardware components using built-in system tools.
