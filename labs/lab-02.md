@@ -1,11 +1,11 @@
 
-# Lab 2
+# Lab 02
 
 # Software Development Environment Lab Exercises
 
 ---
 
-## Exercise 1: Development Environment Setup Planning (Team of 2)
+## Exercise 1: Development Environment Setup Planning
 
 **Objective:** Plan and document a development environment setup without actually installing software.
 
@@ -21,7 +21,6 @@
    - Which type of IDE would be most suitable
    - What additional tools would be needed
    - Hardware requirements
-   - Team collaboration needs
    - Estimated setup time and complexity
 
 3. **Setup Guide Creation :** Write step-by-step setup checklist
@@ -36,7 +35,6 @@ Complete development environment setup plan with tool justifications and install
 **Total Points: 2 marks**
 
 ## Requirements for Completion:
-* **Team Formation:** Work in teams of 2 students
 * **Scenario Selection:** Choose one of the four provided development scenarios
 * **Complete Planning:** Address all required planning components (IDE selection, tools, hardware, collaboration, timing)
 * **Setup Guide:** Create detailed step-by-step installation checklist
@@ -50,29 +48,25 @@ Complete development environment setup plan with tool justifications and install
 
 ## Detailed Expectations:
 
-### For 2 marks (Good), teams must demonstrate:
+### For 2 marks (Good), must demonstrate:
 - **Complete Scenario Analysis:** Clear understanding of chosen development scenario and its specific requirements
 - **Comprehensive Planning:** Thorough consideration of all 5 planning areas:
   - IDE selection with specific recommendations
   - Additional tools identification and rationale
   - Hardware requirements assessment
-  - Team collaboration strategy
   - Realistic time and complexity estimates
-- **Detailed Setup Guide:** Step-by-step checklist that another team could follow
+- **Detailed Setup Guide:** Step-by-step checklist that others could follow
 - **Strong Justifications:** Clear reasoning for each tool choice based on project needs
 - **Professional Documentation:** Well-organized, clear presentation of all components
 
-### For 1 mark (Fair), teams show:
+### For 1 mark (Fair), show:
 - **Basic Completion:** Most planning components addressed but with limited depth
 - **Adequate Documentation:** Setup guide present but missing important details
 - **Weak Justifications:** Tool choices made but reasoning is unclear or superficial
 - **Missing Elements:** 1-2 planning areas not properly addressed
 
-### For 0 marks (Poor), teams have:
+### For 0 marks (Poor), have:
 - **Incomplete Work:** Major components missing or inadequately addressed
 - **No Clear Planning:** Scenario chosen but no meaningful environment planning
 - **Missing Documentation:** No setup guide or justifications provided
 - **No Demonstration of Understanding:** Shows no grasp of development environment concepts
-
-## Teamwork Expectation:
-Both team members must contribute meaningfully to the planning and documentation process. The deliverable should reflect collaborative effort and shared understanding of the development environment requirements.
