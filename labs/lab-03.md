@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Your professor will demonstrate how to create a private repository and add your teammates.  Make sure to add your prof also!
+Your professor will demonstrate how to create a private repository and add your teammates.  Make sure to add your prof (hossein.pourmodheji@senecapolytechnic.ca) also!
 
 
 ## Collaboration Chaos & System Design Challenge
