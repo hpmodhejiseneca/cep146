@@ -1,5 +1,5 @@
 
-# Lab 3
+# Lab 03
 
 # Version Control Concepts 
 *Experiencing Collaboration Problems and Designing Solutions*
@@ -9,7 +9,7 @@
 Your professor will demonstrate how to create a private repository and add your teammates.  Make sure to add your prof also!
 
 
-## Collaboration Chaos & System Design Challenge (Team of 2)
+## Collaboration Chaos & System Design Challenge
 
 ### Part A: Collaboration Chaos Simulation (15 minutes)
 
@@ -87,7 +87,7 @@ Your professor will demonstrate how to create a private repository and add your 
 
 ## Detailed Expectations:
 
-### For 2 marks (Good), teams must demonstrate:
+### For 2 marks (Good), s must demonstrate:
 - **Active Participation:** Both students fully engaged in Part A simulation and merge attempt
 - **Comprehensive System Design:** Version control solution addresses all 6 requirements:
   - Version storage strategy
@@ -100,14 +100,14 @@ Your professor will demonstrate how to create a private repository and add your 
 - **Problem-Solution Connection:** Identifies top 3 problems from simulation and explains how design solves them
 - **Thoughtful Reflection:** Wrap-up questions answered with insight showing understanding of collaboration challenges and scalability issues
 
-### For 1 mark (Fair), teams show:
+### For 1 mark (Fair), s show:
 - **Basic Participation:** Completed simulation but limited engagement in analysis
 - **Incomplete Design:** System addresses some but not all requirements, or solutions are superficial
 - **Adequate Documentation:** Diagram present but unclear, or explanation lacks detail
 - **Weak Problem Analysis:** Problems identified but poor connection to design solutions
 - **Minimal Reflection:** Wrap-up questions answered but responses show limited understanding
 
-### For 0 marks (Poor), teams have:
+### For 0 marks (Poor), s have:
 - **Missing Components:** Major parts not completed or attempted
 - **No System Design:** No meaningful version control solution proposed
 - **No Documentation:** Missing diagram, explanation, or deliverable not submitted
