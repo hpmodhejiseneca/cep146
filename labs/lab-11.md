@@ -1,5 +1,5 @@
 
-### Lab 10
+### Lab 11
 
 ## Introduction
 Your instructor will Show how to identify and interpret a software license on GitHub.
