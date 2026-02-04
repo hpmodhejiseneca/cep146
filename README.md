@@ -18,6 +18,7 @@
 * [Lab 10](labs/lab-10.md)
 * [Lab 11](labs/lab-11.md)
 * [Lab 12](labs/lab-12.md)
+* [Lab 13](labs/lab-13.md)
   
 ---
 
