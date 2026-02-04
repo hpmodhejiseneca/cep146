@@ -1,6 +1,6 @@
 
 
-# Lab 7 - Git Exercises
+# Lab 08 - Git Exercises
 
 ---
 
