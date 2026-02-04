@@ -1,5 +1,5 @@
 
-### Lab 9
+### Lab 10
 
 ## Exercise 1: Your First Prompts
 
