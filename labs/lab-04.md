@@ -12,7 +12,7 @@ Your instructor will demonstrate structured Markdown with headings, subheadings,
 Create a short introduction about yourself using:
 - One main heading
 - Bold text for your name
-- Italic text for your favorite hobby
+- Italic text for your favourite hobby
 - A list of three things you enjoy doing
 
 ### Exercise 2: Recipe Card
@@ -40,7 +40,7 @@ Visit the [Seneca Academic Integrity Policy](https://www.senecapolytechnic.ca/ab
 **Focus Areas:**
 - **Purpose** section
 - **Key definitions** (use blockquote for the main academic integrity definition)
-- **Policy** sections 1-4 (General, Academic integrity program, Responsibilities, Sanctions)
+- **Policy** sections 1-4 (General, Academic Integrity Program, Responsibilities, Sanctions)
 - **One table** from the procedures section
 - **Related links** at the bottom
 
@@ -54,14 +54,14 @@ Visit the [Seneca Academic Integrity Policy](https://www.senecapolytechnic.ca/ab
 
 ---
 
-# Lab 4A Rubric - Markdown Language Practice
+# Lab 04 Rubric - Markdown Language Practice
 
 **Total Points: 2 marks**
 
 ## Requirements for Completion:
 * **Exercise 1:** Complete personal introduction using all required formatting (heading, bold name, italic hobby, list of three items)
 * **Exercise 2:** Create recipe card with all specified elements (main heading, subheading, numbered steps, bold tips)
-* **Exercise 3:** Convert Academic Integrity Policy to markdown including all required components (multiple heading levels, blockquote, bold terms, bulleted list, table, links)
+* **Exercise 3:** Convert Academic Integrity Policy to markdown, including all required components (multiple heading levels, blockquote, bold terms, bulleted list, table, links)
 
 ## Lab Rubric:
 
