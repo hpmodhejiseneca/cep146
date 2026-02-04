@@ -1,5 +1,5 @@
 
-### Lab 6
+### Lab 07
 
 ### Exercise 1: Essay Project with GitHub (20 minutes)
 
