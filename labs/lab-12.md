@@ -1,5 +1,5 @@
 
-### Lab 11
+### Lab 12
 
 ### Exercise 1: Resume Screening AI Bias Analysis (Solo, 25 minutes)
 
