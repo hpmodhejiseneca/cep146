@@ -1,5 +1,5 @@
 
-### Lab 8
+### Lab 09
 
 # How a Neural Network Learns
 
