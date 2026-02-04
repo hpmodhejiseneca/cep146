@@ -1,5 +1,5 @@
 
-# Lab 5
+# Lab 06
 
 # Essential Git Commands - In-Class Labs
 
