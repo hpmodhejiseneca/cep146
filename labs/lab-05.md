@@ -1,5 +1,5 @@
 
-# Lab 4B
+# Lab 05
 
 # GitHub Introduction - In-Class Lab Activities
 
