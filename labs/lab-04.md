@@ -28,7 +28,7 @@ Visit the [Seneca Academic Integrity Policy](https://www.senecapolytechnic.ca/ab
 **Instructions:**
 1. Copy and paste the content from the website
 2. Convert it to proper markdown format
-3. Include content from the **beginning through the "Sanctions" section only**
+3. Include all content
 4. Your markdown document should include:
    - Multiple heading levels (H1, H2, H3)
    - A blockquote for the academic integrity definition
