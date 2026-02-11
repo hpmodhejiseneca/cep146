@@ -1,7 +1,7 @@
 
 # Lab 05
 
-# GitHub Introduction - In-Class Lab Activities
+# GitHub Introduction
 
 ## Introduction
 Your instructor will show how to create a GitHub repository and make a commit. And show how to create a branch and add a new file.
@@ -324,13 +324,13 @@ Your instructor will show how to create a GitHub repository and make a commit. A
    - This shows appreciation for their work and helps you bookmark interesting projects
    - Check if they've starred yours in return
 
-### Lab 4 Checkpoint:
+### Lab Checkpoint:
 - You've provided constructive feedback to a classmate
 - You've created an issue on someone else's repository
 - You've responded professionally to feedback
 - You understand the social aspects of GitHub collaboration
 
-### Lab 4 Deliverable:
+### Lab Deliverable:
 **Both partners must show the instructor:**
 1. The issue you created on your partner's repository (provide the URL)
 2. At least one line comment you made on your partner's code/README
@@ -363,7 +363,7 @@ Your instructor will show how to create a GitHub repository and make a commit. A
 - Exercise 4: Collaborative work evidence (issues and comments on partner's repo)
 
 ---
-# Lab 4B Rubric - GitHub Introduction
+# Lab Rubric - GitHub Introduction
 
 **Total Points: 2 marks**
 
