@@ -1,10 +1,10 @@
 
 # Lab 06
 
-# Essential Git Commands - In-Class Labs
+# Essential Git Commands
 
 ## Introduction
-Your instructor will show Git installation, configuration, and first commit. Branching, editing, and merging will also be demostrated. 
+Your instructor will show Git installation, configuration, and the first commit. Branching, editing, and merging will also be demonstrated. 
 
 ## Exercise 1: Git Setup and First Repository
 **Mode:** Individual  
@@ -75,7 +75,7 @@ Your instructor will show Git installation, configuration, and first commit. Bra
 **Deliverable:** Take a screenshot of your terminal showing:
 - Your git config output
 - The result of `git log --oneline` showing your first commit
-- Submit screenshot to instructor
+- Submit screenshots to Blackboard
 
 ---
 
@@ -164,7 +164,7 @@ Your instructor will show Git installation, configuration, and first commit. Bra
    # Merge desserts branch
    git merge add-desserts
    
-   # Merge appetizers branch
+   # Merge the appetizers branch
    git merge add-appetizers
    
    # Check all files are present
@@ -186,7 +186,7 @@ Your instructor will show Git installation, configuration, and first commit. Bra
 **Deliverable:** Take a screenshot showing:
 - Output of `git log --oneline --graph` showing your merge history
 - Output of `ls` command showing all recipe files
-- Show to instructor or upload to course management system
+- Submit screenshots to Blackboard
 
 ---
 
@@ -266,7 +266,7 @@ Your instructor will show Git installation, configuration, and first commit. Bra
 **Deliverable:** 
 - Share your GitHub repository URL with the instructor
 - Take a screenshot of your repository on GitHub showing the commits
-- Demonstrate the push-pull cycle by showing both GitHub and local terminal
+- Demonstrate the push-pull cycle by showing both GitHub and the local terminal
 
 ---
 
@@ -377,9 +377,8 @@ Your instructor will show Git installation, configuration, and first commit. Bra
    - Both partners should have identical repositories
 
 **Deliverable:** 
-- **Team Submission:** Both partners show instructor the final repository with both recipes
+- **Team Submission:** Both partners show the instructor the final repository with both recipes
 - Take a screenshot of `git log --oneline` showing contributions from both team members
-- **Bonus Challenge:** Add each other as collaborators on GitHub and demonstrate direct collaboration without cloning
 
 ---
 
